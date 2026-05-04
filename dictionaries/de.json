@@ -1,0 +1,27 @@
+{
+  "roadmap": "Roadmap",
+  "todo": "Zu erledigen",
+  "board": "Board",
+  "reports": "Berichte",
+  "issues": "Vorgänge",
+  "code": "Code",
+  "releases": "Releases",
+  "project-settings": "Projekteinstellungen",
+
+  "roadmapPageTitle": "Willkommen zurück!",
+  "roadmapPageDescription": "Ihr persönliches Projekt-Dashboard. Sehen Sie Ihre zugewiesenen Aufgaben, die Fortschrittsübersicht, letzte Aktivitäten und Schnellaktionen.",
+  "todoPageTitle": "ToDo Liste",
+  "todoPageDescription": "Alle anstehenden Aufgaben und User Stories in der Produkt-To-Do-Liste anzeigen und verwalten.",
+  "boardPageTitle": "Board",
+  "boardPageDescription": "Visuelles Kanban-Board zur Echtzeit-Übersicht über den Aufgabenstatus und den Teamfortschritt.",
+  "reportsPageTitle": "Berichte & Analysen",
+  "reportsPageDescription": "Projekt-Insights, Burndown-Charts, Velocity-Berichte und Team-Performance-Metriken.",
+  "issuesPageTitle": "Vorgänge",
+  "issuesPageDescription": "Alle Projektvorgänge und Bugs effizient verfolgen, verwalten und lösen.",
+  "codePageTitle": "Code-Repository",
+  "codePageDescription": "Zugriff auf Quellcode, Repositories, Branches und Pull Requests.",
+  "releasesPageTitle": "Releases",
+  "releasesPageDescription": "Produkt-Releases und Deployment-Versionen planen, verfolgen und verwalten.",
+  "projectSettingsPageTitle": "Projekteinstellungen",
+  "projectSettingsPageDescription": "Projektdetails, Mitglieder, Workflows, Integrationen und Berechtigungen konfigurieren."
+}
